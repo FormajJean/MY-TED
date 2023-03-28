@@ -8,3 +8,5 @@ def text(text):
 if __name__ == '__main__':
     print(main(1, 24))
     text(texts)
+
+print('JIMI NEITRON')
